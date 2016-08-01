@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+/* body {
+    background: url(akwasi_bg.jpg) no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}*/
+
+@media screen and (max-width: 1024px) {
+    /* Specific to this particular image */
+    body {
+        background: url(akwasi_bg.jpg) no-repeat center top fixed;
+        left: 50%;
+        margin-left: -512px; /* 50% */
+    }
+}
+

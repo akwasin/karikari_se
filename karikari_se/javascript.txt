@@ -1,0 +1,5 @@
+http://www.w3schools.com/jsref/prop_style_backgroundrepeat.asp
+
+http://www.quirksmode.org/blog/archives/2010/08/combining_media.html
+
+https://www.sitepoint.com/javascript-media-queries/
